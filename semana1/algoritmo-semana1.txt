@@ -1,0 +1,9 @@
+Algoritmo: Cómo compartir información confiable en internet.
+
+Paso 1: Buscar informacion en la Web
+Paso 2: Asegurarnos de obtenerla de fuentes confiables
+Condicional: La informacion es confiable?---- SI-------------> Compartir / NO-------------> No compartir
+Paso 3: Leer y extraer la informacion unicamente necesaria
+Paso 4: Almacenar informacion de forma segura en la nube (Drive, Dropbox, GitHub)
+Paso 5: Crear enlace de difusion de informacion (Asegurarse que sea solo lectura, No edicion para no alterar informacion)
+Paso 6: Compartir enlace de acceso a la lectura de la informacion en sitios web confiables (Redes sociales personales, periodico web. etc)

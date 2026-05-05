@@ -1,0 +1,28 @@
+Comandos Actividad Semana 2
+
+- Visualizar Ubicación en Repositorio local
+	pwd
+
+- Crear Carpeta en Repositorio
+	mkdir semana2
+
+-Acceder a la carpeta creada
+	cd semana2
+
+- Crear archivos txt en carpeta cread
+
+	new-item preguntas-semana2.txt
+	new-item comandos-terminal.txt
+	new-item reflexion-semana2.txt
+
+- Visualizar estado de cambios realizados en repositorio local
+	git status
+
+- Agregar todos los cambios de repositorio local a GitHub
+	git add .
+
+- Registrar cambios en repositorio local
+	git commit -m "Actividad Semana 2"
+
+- Subir cambios a GitHub 
+	git push

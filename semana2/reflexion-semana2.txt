@@ -1,3 +1,7 @@
 Reflexión de la semana
 
-El uso de la terminal es importante, ya que le permite al desarrollador trabajar desde el origen de los archivos, se centraliza desde una ubicación especifica en directorios y de igual firma permite la interacción de manera directa con repositorios en la web para la gestión y control de cambios
+Para un desarrollador, la terminal no es solo una herramienta técnica es como aprender a hablar directamente con la computadora en su propio idioma. Saber moverse entre carpetas, crear y organizar archivos desde ahí significa tener control total sobre el proyecto, sin depender de clics o ventanas gráficas.
+
+La terminal te da velocidad y precisión. En lugar de perder tiempo buscando botones, escribes un comando y listo el archivo está creado, la carpeta organizada, el proyecto en orden. Esa agilidad se traduce en más tiempo para lo que realmente importa pensar en soluciones y escribir buen código.
+
+Además, muchos de los entornos que usamos a diario Git, servidores remotos funcionan mejor desde la terminal. Dominarla te hace más versátil y autónomo, capaz de trabajar en cualquier sistema operativo y de resolver problemas sin depender de interfaces visuales.

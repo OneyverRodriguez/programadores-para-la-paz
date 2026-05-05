@@ -1,0 +1,3 @@
+Reflexión de la semana
+
+Mantener un registro de cambios con Git es importante porque le da al proyecto una especie de “memoria viva”. Cada commit guarda la historia de lo que se hizo, quién lo hizo y por qué, lo que permite aprender de los avances y corregir errores sin perder el rumbo. Además, facilita el trabajo en equipo, todos pueden aportar sin miedo a desordenar el proyecto, porque siempre hay un historial claro que respalda cada paso. En el fondo, usar Git no es solo técnica, es una forma de dar confianza y transparencia al proceso de crear software.

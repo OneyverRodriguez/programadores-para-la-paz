@@ -1,0 +1,5 @@
+Repositorio: Un repositorio es el lugar donde vive nuestro proyecto, ahí se guarda todo el código, los archivos relacionados y el historial de cambios, lo que permite mantener orden y trabajar en equipo sin perder el rastro de lo que se ha hecho.
+
+Commit: Un commit funciona como una especie de “marca en el tiempo”: registra los cambios que hicimos, quién los realizó y con qué intención, gracias al mensaje que lo acompaña. Es útil para entender la evolución del proyecto y poder retroceder si algo sale mal.
+
+Push: El push es el momento de compartir nuestro trabajo con los demás. Envías los cambios desde nuestra computadora al repositorio remoto como GitHub, asegurando que todos tengan acceso a la versión más reciente y puedan seguir colaborando sobre la misma base.

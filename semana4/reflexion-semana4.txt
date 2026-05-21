@@ -1,0 +1,6 @@
+Reflexión Semana 4: 
+
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+
+Respuesta: Para mí, que las comunidades construyan sus propias herramientas con tecnologías abiertas, como Node.js, es un paso gigante hacia nuestra autonomía.
+Cuando usamos código abierto, dejamos de depender de plataformas externas que muchas veces no entienden las dinámicas ni los contextos de nuestros territorios. En lugar de tener que adaptarnos a moldes ajenos, podemos diseñar soluciones a nuestra medida, pensadas directamente desde nuestras propias potencialidades y saberes locales. Siento que esto es vital porque la tecnología deja de ser algo lejano que nos imponen, y se convierte en una herramienta real de incidencia ciudadana, donde somos nosotros mismos quienes tenemos el control para organizarnos, tejer red y transformar nuestra realidad.

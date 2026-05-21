@@ -1,0 +1,10 @@
+Prueba de rutas Servidor Local
+
+
+1. Comando node server.js: Con este comando ponemos en marcha el proyecto en nuestro entorno local. Una vez que lo ejecutamos, el servidor se activa y se queda trabajando en el puerto 3000, listo para empezar a recibir y procesar solicitudes.
+
+2. Ruta 1 (http://localhost:3000): Esta ruta permite visualizar el estado del servidor desde un navegador. Al ingresar a la URL, se muestra el mensaje "Servidor Activo", lo que indica que está funcionando correctamente.
+
+3. Ruta 2 (http://localhost:3000/saludo): A través de esta ruta podemos comprobar la respuesta del servidor ante una solicitud específica. Al ejecutar la URL, la pantalla nos mostrará el mensaje "Hola comunidad".
+
+4. Ruta 3 (http://localhost:3000/mensaje/oneyver): A través de esta ruta podemos comprobar cómo el servidor lee información específica que le enviamos. Al ingresar a la URL con el nombre indicado, nos devolverá un saludo a la medida con el mensaje "Hola oneyver".

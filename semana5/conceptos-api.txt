@@ -1,0 +1,7 @@
+Respuesta Funcionamiento ruta POST: 
+
+El endpoint POST /reporte sirve para que cualquier persona de la comunidad envie un aviso, comunicado, mensaje, alerta o incidencia, en el cual podrá exponer las diferentes situaciones que se pueden estar presentando en la comunidad como lo serian: 
+- Reportar un problema del barrio (basura, alumbrado, ruido excesivo. etc)
+- Enviar alertas de seguridad o emergencias locales
+- Enviar sugerencias para actividades comunitarias
+- Enviar mensajes de contacto para negocios locales. Etc

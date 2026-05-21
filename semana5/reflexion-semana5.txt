@@ -1,0 +1,5 @@
+Reflexión Semana 5: 
+
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Respuesta: ¡Hola! Viéndolo desde el trabajo en red, siento que las APIs son como esos enlaces clave que mantienen a la comunidad conectada sin tanto desgaste. Si levantamos un reporte o una alerta, la API se encarga de que esa información viaje de forma automática y ordenada entre distintas plataformas, por ejemplo, pasando de un formulario local directo a un grupo de WhatsApp o a un mapa comunitario. Para mí, esto es genial porque nos facilita la vida ya que nos quita el trabajo operativo y nos deja la energía para lo verdaderamente importante, que es organizarnos, potenciar nuestras iniciativas y lograr una incidencia real en nuestros territorios.
